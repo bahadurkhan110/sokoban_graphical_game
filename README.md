@@ -1,4 +1,4 @@
-#Sokoban Graphical Game - C++
+# Sokoban Graphical Game - C++
 
 ![Project Logo](res/project_logo.PNG)
 

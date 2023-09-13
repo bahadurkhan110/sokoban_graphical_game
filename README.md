@@ -1,7 +1,5 @@
 # Sokoban Graphical Game - C++
 
-![Project Logo](res/project_logo.PNG)
-
 ## Table of Contents
 
 - [About](#about)
@@ -44,6 +42,10 @@ The Sokoban Graphical Game is a C++ project that brings the classic Sokoban puzz
   - Run the Sokoban graphical game
    ./sokoban
   - Use arrow keys to move the character and push boxes to their target locations.
+
+### Demo <a name="demo"></a>
+
+![](res/project_demo.gif)
 
 
 ### License<a name="license"></a>
